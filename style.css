@@ -1,0 +1,12 @@
+body {
+  background-color: #ffffff !important;
+}
+
+a {
+  color: #000000 !important;
+}
+
+.text-center {
+  margin: inherit !important;
+  padding: inherit !important;
+}
